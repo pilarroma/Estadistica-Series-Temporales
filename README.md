@@ -1,2 +1,2 @@
-# Series-Temporales
-En este apartado se incluyen unos pasos básicos para el análisis de series temporales
+# Series Temporales
+En este apartado se incluyen los pasos a seguir para realizar un análisis completo de series temporales.
