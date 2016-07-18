@@ -1,2 +1,3 @@
 # Series Temporales
-En este apartado se incluyen los pasos a seguir para realizar un análisis completo de series temporales.
+
+En esta sección adjunto mi trabajo fin de grado en el que se exponen los pasos a seguir para realizar un correcto análisis completo de una serie temporal y se realiza un análisis de 3 series temporales reales.
