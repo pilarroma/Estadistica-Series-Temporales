@@ -1,3 +1,5 @@
 # Series Temporales
 
-En esta sección adjunto mi trabajo fin de grado en el que inicialmente se exponen los pasos a seguir para realizar un correcto y completo análisis de una serie temporal y a continuación se realiza un análisis de 3 series temporales reales.
+
+En esta sección adjunto mi Trabajo Fin de Grado de la carrera de Ciencias Matemáticas. Éste incluye teoría, unos pasos básicos para el análisis de series temporales y el análisis de 3 series de ocupación hotelera española desde 1999 hasta 2015
+
